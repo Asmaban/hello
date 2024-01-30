@@ -1,0 +1,3 @@
+version=1
+artifact.repository.factory.order=site.xml
+metadata.repository.factory.order=site.xml
